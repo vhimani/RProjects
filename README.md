@@ -1,2 +1,2 @@
 # RProjects
-Collection of a few predictive modeling projects
+Running collection of predictive modeling projects.
